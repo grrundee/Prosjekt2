@@ -22,4 +22,4 @@ plt.show()
 
 #Her kan du skrive programmet ditt
 
-          
+#comment          
