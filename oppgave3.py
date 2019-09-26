@@ -21,6 +21,6 @@ plt.axis([0,200,0,80])
 plt.show()
 
 #Her kan du skrive programmet ditt
-
+#wallah
 #comment
 #comment          
